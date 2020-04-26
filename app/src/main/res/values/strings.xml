@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Task1Week4</string>
+    <string-array name="capital_city">
+        <item>Jakarta</item>
+        <item>Batam</item>
+        <item>Surabaya</item>
+        <item>Malang</item>
+        <item>Yogyakarta</item>
+        <item>Lampung</item>
+        <item>Bogor</item>
+        <item>Pekanbaru</item>
+        <item>Medan</item>
+        <item>Palembang</item>
+        <item>Bandung</item>
+        <item>Indramayu</item>
+        <item>Tanjung Pinang</item>
+        <item>Padang</item>
+        <item>Semarang</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Daerah Khusus Ibukota Jakarta adalah ibu kota negara dan kota terbesar di Indonesia. Jakarta merupakan satu-satunya kota di Indonesia yang memiliki status setingkat provinsi. Jakarta terletak di pesisir bagian barat laut Pulau Jawa</item>
+        <item>Kota Batam adalah sebuah kota terbesar di Provinsi Kepulauan Riau, Indonesia. Wilayah Kota Batam terdiri dari Pulau Batam, Pulau Rempang dan Pulau Galang dan pulau-pulau kecil lainnya di kawasan Selat Singapura dan Selat Malaka. Pulau Batam, Rempang, dan Galang terkoneksi oleh Jembatan Barelang</item>
+        <item>Kota Surabaya adalah ibu kota Provinsi Jawa Timur, Indonesia, sekaligus kota metropolitan terbesar di provinsi tersebut. Surabaya juga merupakan kota terbesar kedua di Indonesia setelah Jakarta. Kota ini terletak 800 km sebelah timur Jakarta, atau 435 km sebelah barat laut Denpasar, Bali</item>
+        <item>Kota Malang adalah sebuah kota yang terletak di Provinsi Jawa Timur, Indonesia, kota terbesar kedua di Jawa Timur setelah Surabaya, dan kota terbesar ke-12 di Indonesia. Kota ini didirikan pada masa Kerajaan Kanjuruhan dan terletak di dataran tinggi seluas 145,28 km² yang terletak di tengah-tengah Kabupaten Malang</item>
+        <item>Kota Yogyakarta adalah ibu kota dan pusat pemerintahan Daerah Istimewa Yogyakarta, Indonesia. Kota Yogyakarta adalah kediaman bagi Sultan Hamengkubuwana dan Adipati Paku Alam.</item>
+        <item>Lampung adalah sebuah provinsi paling selatan di Pulau Sumatra, Indonesia, dengan ibu kota Bandar Lampung. Provinsi ini memiliki dua kota yaitu Kota Bandar Lampung dan Kota Metro serta 13 kabupaten.</item>
+        <item>Kota Bogor adalah sebuah kota di Provinsi Jawa Barat, Indonesia. Kota ini terletak 59 km sebelah selatan Jakarta, dan wilayahnya berada di tengah-tengah wilayah Kota Depok dan Kabupaten Bogor. Dahulu luasnya 21,56 km², namun kini telah berkembang menjadi 118,50 km² dan jumlah penduduknya 1.081.009 jiwa</item>
+        <item>Kota Pekanbaru adalah ibu kota dan kota terbesar di provinsi Riau, Indonesia. Kota ini merupakan salah satu sentra ekonomi terbesar di Pulau Sumatra, dan termasuk sebagai kota dengan tingkat pertumbuhan, migrasi dan urbanisasi yang tinggi.</item>
+        <item>Kota Medan adalah ibu kota provinsi Sumatra Utara, Indonesia. Kota ini merupakan kota terbesar ketiga di Indonesia setelah Jakarta dan Surabaya, serta kota terbesar di luar Pulau Jawa</item>
+        <item>Kota Palembang adalah ibu kota provinsi Sumatra Selatan. Palembang adalah kota terbesar kedua di Sumatra setelah Medan. Kota dengan luas wilayah 400,61 km² ini dihuni oleh lebih dari 1,6 juta penduduk pada 2018. Diprediksikan pada tahun 2030 mendatang kota ini akan dihuni 2,5 Juta orang.</item>
+        <item>Kota Bandung adalah kota metropolitan terbesar di Provinsi Jawa Barat, sekaligus menjadi ibu kota provinsi tersebut. Kota ini terletak 140 km sebelah tenggara Jakarta, dan merupakan kota terbesar di wilayah Pulau Jawa bagian selatan</item>
+        <item>Kabupaten Indramayu adalah salah satu kabupaten di Provinsi Jawa Barat, Indonesia. Ibu kotanya adalah Indramayu. Nama Indramayu berasal dari kecantikan putri Arya wira lodra bernama Nyi Endang Ayu, yaitu salah satu pendiri Indramayu abad 1527 M. Nyi endang ayu</item>
+        <item>Tanjungpinang atau Tanjung Pinang adalah ibu kota dari Provinsi Kepulauan Riau, Indonesia. Kota ini terletak di Pulau Bintan dan beberapa pulau kecil seperti Pulau Dompak dan Pulau Penyengat, dengan koordinat 0º5 LU dan 104º27 BT. Kota Tanjungpinang dahulunya adalah pusat pemerintahan Kesultanan Riau-Lingga</item>
+        <item>Kota Padang adalah kota terbesar di pantai barat Pulau Sumatra sekaligus ibu kota dari provinsi Sumatra Barat, Indonesia. Kota ini merupakan pintu gerbang barat Indonesia dari Samudra Hindia.</item>
+        <item>Kota Semarang adalah ibu kota Provinsi Jawa Tengah, Indonesia sekaligus kota metropolitan terbesar kelima di Indonesia sesudah Jakarta, Surabaya, Medan, dan Bandung</item>
+    </string-array>
+</resources>
